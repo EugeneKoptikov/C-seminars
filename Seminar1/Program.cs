@@ -8,14 +8,14 @@ b = Convert.ToInt32(Console.ReadLine());
 
 if (a > b) 
 {
-	Console.Write("Наибольшее число - " + a);
+	Console.WriteLine("Наибольшее число - " + a);
 	Console.WriteLine("Наименьшее число - " + b);
 }
 
 if (a < b) 
 {
-	Console.Write("Наибольшее число - ");
-	Console.WriteLine(b);
+	Console.WriteLine("Наибольшее число - " + b);
+	Console.WriteLine("Наименьшее число - " + a);
 }
 
 if (a == b) 
