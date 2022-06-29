@@ -20,5 +20,5 @@ if (a < b)
 
 if (a == b) 
 {
-	Console.WriteLine("Введеные чила равны.");
+	Console.WriteLine("Введеные чиcла равны.");
 }
