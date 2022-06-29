@@ -21,4 +21,4 @@ if (a < b)
 if (a == b) 
 {
 	Console.WriteLine("Введеные чиcла равны.");
-}
+
