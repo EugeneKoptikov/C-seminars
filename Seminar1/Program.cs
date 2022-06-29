@@ -8,8 +8,8 @@ b = Convert.ToInt32(Console.ReadLine());
 
 if (a > b) 
 {
-	Console.Write("Наибольшее число - ");
-	Console.Write(a);
+	Console.Write("Наибольшее число - " + a);
+	Console.WriteLine("Наименьшее число - " + b);
 }
 
 if (a < b) 
